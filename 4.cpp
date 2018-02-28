@@ -1,24 +1,4 @@
-TermometroN1-01.cpp
-Ano passado
-28 de jun de 2017
 
-Mitzrael Tassinari compartilhou 1 item
-C++
-TermometroN1-01.cpp
-M
-Pode editar
-Mariah Rodrigues
-M
-Pode editar
-Matahary Matahary
-R
-Pode editar
-Rafael Izidoro
-20 de abr de 2017Computador
-J
-Juliana Cruz fez o upload de 1 item
-C++
-TermometroN1-01.cpp
 #include<iostream>
 #include<conio.h>
 #include<stdio.h>
